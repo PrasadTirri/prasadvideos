@@ -1,0 +1,23 @@
+.video-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: ;
+  width: 100%;
+  height: 100vh;
+}
+
+.responsive-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  list-style-type: none;
+  height: ;
+}
+.video-playing-container {
+  width: 100%;
+  height: 100vh;
+}
+.video-list-container {
+  width: 50%;
+  height: 100vh;
+}
